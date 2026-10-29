@@ -35,7 +35,7 @@ Aplicar herramientas de Big Data para almacenar, procesar y analizar informació
 ## 4. Estructura del repositorio
 
 ```text
-Tarea3-BigData-EVA/
+bigdata-Tarea3/
 ├── README.md
 ├── tarea3_batch.py
 ├── kafka_producer.py
